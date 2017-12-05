@@ -1,5 +1,6 @@
 # folder node_modules
 node_modules/
+bower_components/
 private/libs/
 _build/
 server/node_modules/

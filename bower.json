@@ -1,0 +1,12 @@
+{
+  "name": "angular-phonecat",
+  "description": "A starter project for AngularJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/angular/angular-phonecat",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "angular-bootstrap": "^2.5.0",
+    "bootstrap": "^3.3.7"
+  }
+}

@@ -18,5 +18,14 @@ Date: Mar 2015
 // Angular Material
 @import "../node_modules/angular-material/angular-material.scss";
 
+// ui-bootstrap
+@import "../bower_components/bootstrap/dist/css/bootstrap.css";
+
+// ui-bootstrap
+// @import "../bower_components/bootstrap/dist/css/bootstrap-theme.css";
+
+// ui-bootstrap
+@import "../bower_components/angular-bootstrap/ui-bootstrap-csp.css";
+
 // Sass variables
 @import "partials/main";

@@ -5,7 +5,10 @@
      */
     angular
         .module('todo', [
-            // 'test'
+            'ui.router',
+            'ngAnimate',
+            'ngSanitize',
+            'ui.bootstrap'
         ]);
 
 
